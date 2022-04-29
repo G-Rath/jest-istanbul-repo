@@ -1,0 +1,24 @@
+{
+  "/c/jest-istanbul-repo/src/file.js": {
+    "path": "/c/jest-istanbul-repo/src/file.js",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "42697216bcb712902f04e1efb28ea6baf6939744"
+  },
+  "/c/jest-istanbul-repo/index.js": {
+    "path": "/c/jest-istanbul-repo/index.js",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {},
+    "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
+    "hash": "c7685d666d3b3875309062cdd485dcf1f781a343"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "jest-istanbul-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Rath/jest-istanbul-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-Rath/jest-istanbul-repo/issues"
+  },
+  "homepage": "https://github.com/G-Rath/jest-istanbul-repo#readme",
+  "dependencies": {
+    "istanbul-lib-coverage": "^3.2.0",
+    "istanbul-lib-report": "^3.0.0",
+    "istanbul-reports": "^3.1.4"
+  }
+}
